@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello!");
             //Salut Qing!
             //Salut Joao!
+            //C'est pas évident tout ça...
         }
     }
 }
